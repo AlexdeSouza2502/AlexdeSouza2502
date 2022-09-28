@@ -21,6 +21,6 @@
   <a href = "mailto:alekinhosouzasoares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alex-de-souza-soares-junior-5bb213b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![Snake animation](https://github.com/AlexdeSouza2502/AlexdeSouza2502/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LeoSIIF/Leosiif/blob/output/github-contribution-grid-snake.svg)
  
 </div>
